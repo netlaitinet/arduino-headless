@@ -14,3 +14,4 @@ not tested yet on arduino uno
 - [x] initial test to rule out potential hardware problems with the arduino on arch linux.
 - [] version that can run as normal user without root. (currently everything runs as root)
 - [] version that runs with arduino uno on debian. (currently arduino nano on arch)
+- [] version that skips the arduino specific language and uses real C/C++ instead.
